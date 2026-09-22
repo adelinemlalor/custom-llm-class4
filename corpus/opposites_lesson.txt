@@ -1,0 +1,105 @@
+the opposite of big is small .
+the opposite of small is big .
+big is the opposite of small .
+small is the opposite of big .
+a big truck is not a small truck .
+the opposite of old is new .
+the opposite of new is old .
+old is the opposite of new .
+new is the opposite of old .
+an old chair is not a new chair .
+the opposite of fast is slow .
+the opposite of slow is fast .
+fast is the opposite of slow .
+slow is the opposite of fast .
+a fast river is not a slow river .
+the opposite of wet is dry .
+the opposite of dry is wet .
+wet is the opposite of dry .
+dry is the opposite of wet .
+a wet towel is not a dry towel .
+the opposite of dark is bright .
+the opposite of bright is dark .
+dark is the opposite of bright .
+bright is the opposite of dark .
+a dark room is not a bright room .
+the opposite of hard is soft .
+the opposite of soft is hard .
+hard is the opposite of soft .
+soft is the opposite of hard .
+a hard bed is not a soft bed .
+the opposite of long is short .
+the opposite of short is long .
+long is the opposite of short .
+short is the opposite of long .
+a long walk is not a short walk .
+the opposite of high is low .
+the opposite of low is high .
+high is the opposite of low .
+low is the opposite of high .
+a high shelf is not a low shelf .
+the opposite of early is late .
+the opposite of late is early .
+early is the opposite of late .
+late is the opposite of early .
+an early train is not a late train .
+the opposite of heavy is light .
+the opposite of light is heavy .
+heavy is the opposite of light .
+light is the opposite of heavy .
+a heavy box is not a light box .
+the opposite of clean is dirty .
+the opposite of dirty is clean .
+clean is the opposite of dirty .
+dirty is the opposite of clean .
+a clean plate is not a dirty plate .
+the opposite of near is far .
+the opposite of far is near .
+near is the opposite of far .
+far is the opposite of near .
+a near station is not a far station .
+the opposite of strong is weak .
+the opposite of weak is strong .
+strong is the opposite of weak .
+weak is the opposite of strong .
+a strong wind is not a weak wind .
+the opposite of happy is sad .
+the opposite of sad is happy .
+happy is the opposite of sad .
+sad is the opposite of happy .
+a happy child is not a sad child .
+the opposite of rough is smooth .
+the opposite of smooth is rough .
+rough is the opposite of smooth .
+smooth is the opposite of rough .
+a rough road is not a smooth road .
+the soup on the stove is hot .
+the tea in the cup is hot .
+the stone in the sun is hot .
+the water in the river is cold .
+the wind in the winter is cold .
+the milk in the bottle is cold .
+hot water and cold water are different .
+the driver wanted hot coffee and not cold coffee .
+the kettle makes water hot .
+the freezer makes water cold .
+the glass on the table is empty .
+the bottle in the bag is empty .
+the room after the meeting is empty .
+the glass on the shelf is full .
+the bottle in the box is full .
+the room before the meeting is full .
+an empty bag and a full bag are different .
+the worker filled the empty cup until it was full .
+the street near the market is noisy .
+the engine in the truck is noisy .
+the crowd at the station is noisy .
+the library near the school is quiet .
+the garden behind the house is quiet .
+the street at night is quiet .
+a noisy room and a quiet room are different .
+the teacher asked the noisy class to be quiet .
+the ball on the floor is round .
+the plate on the table is round .
+the warm bread came out of the oven .
+the warm air filled the kitchen .

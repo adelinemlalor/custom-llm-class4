@@ -1,0 +1,45 @@
+{
+  "model_sha256": "a9cecbe55a9147db2f344f04a872c714479900240c68422abf2b84527ca06dfd",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "what is the capital of France",
+      "seed": 2026,
+      "response": ".",
+      "unknown_prompt_words": [
+        "capital",
+        "france",
+        "what"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the opposite of hot is",
+      "seed": 2027,
+      "response": "shelf .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the shop is not open . it is",
+      "seed": 2028,
+      "response": "not market .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "what is the capital of France",
+      "seed": 2029,
+      "response": "and the different platform .",
+      "unknown_prompt_words": [
+        "capital",
+        "france",
+        "what"
+      ],
+      "prompt_truncated": false
+    }
+  ]
+}

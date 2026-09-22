@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "negation_lesson.txt",
+      "bytes": 4770,
+      "sha256": "3dce8ee84632dde4530ff56b5fe5afcf5064194f75e0f890ec987ff9c0d19c3d",
+      "warnings": [],
+      "characters": 4770,
+      "passages": 179,
+      "unique_passages": 179,
+      "preview": "the cup is not white . it is black . the cup is black .\nthe cup is not black . it is white . the cup is white .\nthe shirt is not brown . it is grey . the shirt is grey .\nthe shirt is not grey . it is brown . the shirt is brown .\nthe chair is not wooden . it is metal . the chair is metal .\nthe wall i"
+    },
+    {
+      "file": "opposites_lesson.txt",
+      "bytes": 3505,
+      "sha256": "08104def4531a8c41447c796f19a50215e69c6eb198bce69a7420c52adc93643",
+      "warnings": [],
+      "characters": 3505,
+      "passages": 105,
+      "unique_passages": 105,
+      "preview": "the opposite of big is small .\nthe opposite of small is big .\nbig is the opposite of small .\nsmall is the opposite of big .\na big truck is not a small truck .\nthe opposite of old is new .\nthe opposite of new is old .\nold is the opposite of new .\nnew is the opposite of old .\nan old chair is not a new"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 284,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 4876,
+  "new_unique_passages": 284,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

@@ -1,0 +1,77 @@
+the cup is not white . it is black . the cup is black .
+the cup is not black . it is white . the cup is white .
+the shirt is not brown . it is grey . the shirt is grey .
+the shirt is not grey . it is brown . the shirt is brown .
+the chair is not wooden . it is metal . the chair is metal .
+the wall is not orange . it is purple . the wall is purple .
+the wall is not purple . it is orange . the wall is orange .
+the pen is not blue . it is green . the pen is green .
+the pen is not green . it is blue . the pen is blue .
+the folder is not red . it is yellow . the folder is yellow .
+the folder is not yellow . it is red . the folder is red .
+the roof is not flat . it is steep . the roof is steep .
+the bag is not heavy . it is light . the bag is light .
+the road is not wide . it is narrow . the road is narrow .
+the road is not narrow . it is wide . the road is wide .
+the window is not clean . it is dirty . the window is dirty .
+the window is not dirty . it is clean . the window is clean .
+the gate is not locked . it is unlocked . the gate is unlocked .
+the gate is not unlocked . it is locked . the gate is locked .
+the lid is not loose . it is tight . the lid is tight .
+noah did not take the bus . he took the train . noah took the train .
+noah did not take the train . he took the bus . noah took the bus .
+maya did not order soup . she ordered salad . maya ordered salad .
+maya did not order salad . she ordered soup . maya ordered soup .
+the driver did not choose the highway . he chose the side road . the driver chose the side road .
+the student did not read the report . she read the letter . the student read the letter .
+the student did not read the letter . she read the report . the student read the report .
+the cook did not use butter . he used oil . the cook used oil .
+the cook did not use oil . he used butter . the cook used butter .
+the farmer did not plant corn . she planted wheat . the farmer planted wheat .
+the farmer did not plant wheat . she planted corn . the farmer planted corn .
+the child did not drink water . he drank milk . the child drank milk .
+the child did not drink milk . he drank water . the child drank water .
+the man did not buy bread . he bought rice . the man bought rice .
+the man did not buy rice . he bought bread . the man bought bread .
+the woman did not buy coffee . she bought tea . the woman bought tea .
+the woman did not buy tea . she bought coffee . the woman bought coffee .
+the clerk did not send the package . she sent the letter . the clerk sent the letter .
+the nurse did not call the office . he called the hospital . the nurse called the hospital .
+the manager did not visit the factory . she visited the office . the manager visited the office .
+the guest did not sit by the window . he sat by the door . the guest sat by the door .
+the painter did not paint the fence . she painted the shed . the painter painted the shed .
+the driver did not park behind the store . he parked beside the store . the driver parked beside the store .
+the boy did not carry the basket . he carried the bucket . the boy carried the bucket .
+the girl did not open the drawer . she opened the cabinet . the girl opened the cabinet .
+the team did not meet on monday . they met on friday . the team met on friday .
+the team did not meet on friday . they met on monday . the team met on monday .
+the shop is not open on sunday . it is closed on sunday . the shop is closed on sunday .
+the shop is not closed on monday . it is open on monday . the shop is open on monday .
+the office is not open at night . it is closed at night . the office is closed at night .
+the library is not closed in the morning . it is open in the morning . the library is open in the morning .
+the gate at the factory is closed .
+the gate at the factory is open .
+the window in the kitchen is closed .
+the window in the kitchen is open .
+the station is open early and closed late .
+the market is closed early and open late .
+the visitor found the entrance closed and walked to the open side .
+the guard kept one door closed and one door open .
+the sky is blue and the grass is green .
+the paper is white and the ink is blue .
+the lamp is yellow and the shade is red .
+the label is red and the border is green .
+the truck is green and the trailer is blue .
+the sign is yellow and the letters are red .
+the box on the shelf is blue .
+the box on the floor is green .
+the box in the corner is yellow .
+the box near the door is red .
+he ordered tea and she ordered milk .
+they bought bread and rice at the market .
+the shelf holds tea , milk , bread and rice .
+the kitchen had milk but no tea .
+the kitchen had bread but no rice .
+the cup was wide and the glass was narrow .
+the key was missing from the drawer .
+the page was missing from the folder .
