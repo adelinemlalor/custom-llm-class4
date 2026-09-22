@@ -23,7 +23,7 @@ PyTorch with AdamW. Trained on CPU in Google Colab.
 
 Scorable accuracy: Exp 1 went 9/24 (37.5%) → 20/24 (83.3%). Exp 2 went 7/28 (25.0%) → 24/28 (85.7%).
 
-**Result sets:** [exp1 untrained](LINK) · [exp1 final](LINK) · [exp2 untrained](LINK) · [exp2 final](LINK)
+**Result sets:** [exp1 untrained](llm_runs/20260922T210439_859052Z/language_evals/untrained/) · [exp1 final](llm_runs/20260922T210439_859052Z/language_evals/final/) · [exp2 untrained](llm_runs/20260922T214458_340639Z/language_evals/untrained/) · [exp2 final](llm_runs/20260922T214458_340639Z/language_evals/final/)
 
 Important caveat: this is a **public development benchmark**. I read the eval cases to decide what
 to teach, so these numbers cannot be treated as evidence of generalization to unseen tests.
@@ -73,7 +73,7 @@ confidential or personal data involved:
 | [`corpus/negation_lesson.txt`](corpus/negation_lesson.txt) | 179 | teach the negation category |
 
 284 new unique passages total. No PDFs were used, so there was no extraction or OCR step and no
-page warnings to check. See [`corpus_manifest.json`](LINK) and [`vocabulary_report.json`](LINK).
+page warnings to check. See [`corpus_manifest.json`](llm_runs/20260922T214458_340639Z/corpus_manifest.json) and [`vocabulary_report.json`](llm_runs/20260922T214458_340639Z/vocabulary_report.json).
 
 ---
 
@@ -139,7 +139,7 @@ The values grow roughly tenfold in magnitude. Total movement in the full 64-dime
 **0.610** (vector distance). No coordinate has a human-readable meaning; they are only useful in
 combination.
 
-Evidence: [`tokenization.json`](LINK) · [`inspection.json`](LINK) · [`checkpoint.json`](LINK)
+Evidence: [`tokenization.json`](llm_runs/20260922T214458_340639Z/tokenization.json) · [`inspection.json`](llm_runs/20260922T214458_340639Z/inspection.json) · [`checkpoint.json`](llm_runs/20260922T214458_340639Z/checkpoint.json)
 
 ### One gradient and one weight update
 
@@ -254,15 +254,15 @@ Worth noting: in **Experiment 1**, temperatures 0.8 and 1.2 produced **identical
 temperature could not shake it loose. The larger Exp 2 vocabulary is what made the temperature
 comparison informative at all.
 
-Evidence: [`temperature_comparison.json`](LINK) · [`config.json`](LINK)
+Evidence: [`temperature_comparison.json`](llm_runs/20260922T214458_340639Z/temperature_comparison.json) · [`config.json`](llm_runs/20260922T214458_340639Z/config.json)
 
 ---
 
 ## 6. Training curves and samples
 
-![training curves](LINK-to-training_curves.svg)
+![training curves](llm_runs/20260922T214458_340639Z/training_curves.svg)
 
-Full loss table (Experiment 2), from [`history.json`](LINK):
+Full loss table (Experiment 2), from [`history.json`](llm_runs/20260922T214458_340639Z/history.json):
 
 | Step | Training loss | Validation loss |
 |---|---|---|
@@ -308,7 +308,7 @@ validation split is a 90/10 passage split, and passages from the same source sha
 training passages, so plausible output here says nothing about unseen sentence structures. The Exp 2
 free continuations in §8 make that concrete.
 
-Full saved samples: [`samples/`](LINK)
+Full saved samples: [`samples/`](llm_runs/20260922T214458_340639Z/samples/)
 
 ---
 
@@ -419,7 +419,7 @@ small share of the model's total probability mass.`
 - The negation file uses the same two frames with entirely different subjects and objects than the
   test cases, and reverses each pair so the model cannot succeed by always copying the
   second-mentioned word.
-- Verification: [`eval_separation.json`](LINK) · [`corpus_manifest.json`](LINK) · [`corpus.txt`](LINK)
+- Verification: [`eval_separation.json`](llm_runs/20260922T214458_340639Z/eval_separation.json) · [`corpus_manifest.json`](llm_runs/20260922T214458_340639Z/corpus_manifest.json) · [`corpus.txt`](llm_runs/20260922T214458_340639Z/corpus.txt)
 
 ---
 
@@ -470,7 +470,7 @@ would have been.
 words dropped from four to three because `is` entered the vocabulary in Exp 2. The reply is equally
 meaningless. The model has no mechanism for answering a question.
 
-Evidence: [`chat_transcript.json`](LINK) · screenshots in [`evidence/`](LINK)
+Evidence: [`chat_transcript.json`](llm_runs/20260922T214458_340639Z/chat_transcript.json) · screenshots in [`evidence/`](evidence/)
 
 ---
 
@@ -502,7 +502,7 @@ and their absence has nothing to do with whether the pattern was learned.`
 
 ## 10. How to reproduce
 
-**Run the training notebook.** Open [`custom_llm.ipynb`](LINK) in Colab (default CPU runtime is
+**Run the training notebook.** Open [`custom_llm.ipynb`](custom_llm_exp2.ipynb) in Colab (default CPU runtime is
 enough) or locally with `pip install -r requirements.txt`. For Experiment 2, upload
 `opposites_lesson.txt` and `negation_lesson.txt` into `corpus/` first. Keep `CORPUS = "classroom"`,
 `TRAINING_STEPS = 3000`, `LEARNING_RATE = 0.001`. Select Run All. Sections 6b and 8b run the evals
